@@ -1,0 +1,41 @@
+_repo: Sue-A-Little-Heroine_20071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Elizabeth Thomasina
+    - Meade, Mrs. L. T.
+    - Mead, L. T.
+    - Thomas, Elizabeth
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Lillie
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcsh 'London (England) -- Juvenile fiction'
+- !lcsh 'Poor children -- Juvenile fiction'
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcsh 'Abduction -- Juvenile fiction'
+title: Sue, A Little Heroine
+url: http://www.gutenberg.org/ebooks/20071
